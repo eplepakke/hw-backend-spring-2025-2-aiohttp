@@ -1,12 +1,12 @@
-user_token: вставьте_ваш_токен_вместо_этой_строки
+user_token: YTkyMmNiNTktN2ZjNS00ZTRmLWI2MTMtOGRhOGNiMTU4ODVkXzgxMzM=
 
 session:
-  key: key_to_generate
+  key: 7BAC8ZBcjYoF697-Bp-Fo_IOLDeldyYIiK1AiSWXLgc=
 admin:
   email: admin@admin.com
   password: admin
 bot:
-  token: group_token
-  group_id: 1
+  token: vk1.a.9bQl02Uw24_OISFb5cs8_CTrxLCGC0lPvl9XzuW9JHqSLgaV4yRMhnqjMVK1PDjx1nk5cLSHw_HbDWArEb3772iQT73CcCo0MYGAp9E4BxGQ9NEoRJouPNA1o-GgUze3gtclsc3jgFQIqDuS21-GNOgjwPAi1bQhsQX4WQJtv1j5ljA1rTRRyeKpqKuWVROwkjoS-4jKxbbVPlTalyLbgQ
+  group_id: 229838729
 
 

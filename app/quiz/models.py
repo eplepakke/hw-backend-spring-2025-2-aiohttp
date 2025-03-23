@@ -9,9 +9,13 @@ class Theme:
 
 @dataclass
 class Question:
-    pass
+    id: int | None
+    title: str
+    theme_id: int | None
+    answers: list['Answer']
 
 
 @dataclass
 class Answer:
-    pass
+    title: str
+    is_correct: bool
